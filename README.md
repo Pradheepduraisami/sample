@@ -17,3 +17,7 @@ git branch -M main
 git remote add origin https://github.com/Pradheepduraisami/sample.git
 git push -u origin main
 ```
++ i have created an empty folder in my file explorer and opened the folder in cmd 
+ after opened i just copied and pastd the line one by one
++ the first line echo "# sample" >> README.md created an file READ.md with the conten " sample"
+
