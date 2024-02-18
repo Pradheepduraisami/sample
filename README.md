@@ -1,7 +1,7 @@
 "# sample" 
 
 this repository is crested to giving demo on git 
-& gi thub
+& git hub
 
 things i did for making this repsoitory
 
@@ -22,3 +22,4 @@ git push -u origin main
 + the first line echo "# sample-demo" >> README.md created an file READ.md with the conten " sample"
 
 +added a simple js file using notepad named **script file.js**
++made changes in github.com .we have to pull the changes in local git repository
