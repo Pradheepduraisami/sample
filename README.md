@@ -23,3 +23,4 @@ git push -u origin main
 
 +added a simple js file using notepad named **script file.js**
 +made changes in github.com .we have to pull the changes in local git repository
++using `git pull`
