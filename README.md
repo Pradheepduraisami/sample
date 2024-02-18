@@ -5,7 +5,7 @@ this repository is crested to giving demo on git
 
 things i did for making this repsoitory
 
-+created a empty repository named 'sample-demo'in (https://github.com/Pradheepduraisami/sample-demo.git)
++created a empty repository named `sample-demo`in (https://github.com/Pradheepduraisami/sample-demo.git)
 +copied the lines from repository and the lines are
 
 ```
@@ -21,3 +21,4 @@ git push -u origin main
  after opened i just copied and pastd the line one by one
 + the first line echo "# sample-demo" >> README.md created an file READ.md with the conten " sample"
 
++added a simple js file using notepad named **script file.js**
